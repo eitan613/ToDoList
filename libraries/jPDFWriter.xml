@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jPDFWriter">
+    <CLASSES>
+      <root url="file://C:/Program Files/jPDFWriter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/jPDFWriter" recursive="false" />
+  </library>
+</component>
